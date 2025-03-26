@@ -55,4 +55,5 @@
 
 
 ### 🌟 Ahora escuchando  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=tu_id_spotify)](https://open.spotify.com/user/i8t22o6uumkx28v0iksobrq5t)
+
+[![Spotify](https://spotify-now-playing-5n9wt62i5-josegullosos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/i8t22o6uumkx28v0iksobrq5t)
