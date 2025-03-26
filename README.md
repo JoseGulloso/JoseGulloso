@@ -43,9 +43,9 @@
   </a>
 </div> 
 
-<div align="center">
+
   [![Spotify](https://novatorem-xhd6-2vbmi7m9u-josegullosos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/i8t22o6uumkx28v0iksobrq5t)
-</div>
+
 
 ###
 
