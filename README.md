@@ -1,16 +1,62 @@
-# Hola, soy José Carlos 👋  
+<p align="left">🌐 Front-End Developer | Passionate about Web Development<br><br>Hello! I'm José Carlos Gulloso Buelvas, a 23-year-old front-end developer from Colombia. I specialize in building engaging and responsive web interfaces with a focus on clean code and user-centric design.<br><br>🔹 Skills: HTML, CSS, JavaScript, Vue,Tailwindcss,Bootstrap,Astro and more.<br>🔹 Passion: Turning ideas into intuitive digital experiences.<br>🔹 Goal: To grow as a developer while contributing to innovative projects.<br><br>Let’s connect and create something amazing!</p>
 
-### Desarrollador Front-End | Colombia 🇨🇴  
+###
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dracula)](https://github.com/tu_usuario)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact)](https://github.com/tu_usuario)  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JoseGulloso/count.svg?"  />
+</div>
 
-### 🛠 Habilidades  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+###
 
-### 🌟 Ahora escuchando  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=tu_id_spotify)](https://open.spotify.com/user/tu_id_spotify)  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+</div>
 
-### 📫 Contáctame  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu_perfil)  
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/josecarlosgullosobuelva/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="http://josegulloso.slack.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img height="200" src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseGulloso/JoseGulloso/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseGulloso/JoseGulloso/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoseGulloso/JoseGulloso/output/pacman-contribution-graph.svg">
+</picture>
+
+###
