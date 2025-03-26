@@ -43,10 +43,6 @@
   </a>
 </div> 
 
-
-  [![Spotify](https://novatorem-xhd6-2vbmi7m9u-josegullosos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/i8t22o6uumkx28v0iksobrq5t)
-
-
 ###
 
 <br clear="both">
@@ -54,5 +50,9 @@
 <div align="center">
   <img height="400" src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif"  />
 </div>
+
+### 
+
+ [![Spotify](https://novatorem-xhd6-2vbmi7m9u-josegullosos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/i8t22o6uumkx28v0iksobrq5t)
 
 ###
