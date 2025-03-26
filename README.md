@@ -52,3 +52,7 @@
 </div>
 
 ### 
+
+
+### 🌟 Ahora escuchando  
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=tu_id_spotify)](https://open.spotify.com/user/i8t22o6uumkx28v0iksobrq5t)
