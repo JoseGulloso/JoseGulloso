@@ -41,6 +41,10 @@
   <a href="http://josegulloso.slack.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </a>
+</div> 
+
+<div align="center">
+  [![Spotify](https://novatorem-xhd6-2vbmi7m9u-josegullosos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/JoseGulloso)
 </div>
 
 ###
