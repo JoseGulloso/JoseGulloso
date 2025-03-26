@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose Gulloso</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">Hello! I'm José Carlos Gulloso Buelvas, a 23-year-old front-end developer from Colombia. I specialize in building engaging and responsive web interfaces with a focus on clean code and user-centric design. 🔹 Skills: HTML, CSS, JavaScript, Vue, and more. 🔹 Passion: Turning ideas into intuitive digital experiences. 🔹 Goal: To grow as a developer while contributing to innovative projects. Let’s connect and create something amazing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josegulloso&label=Profile%20views&color=0e75b6&style=flat" alt="josegulloso" /> </p>
 
