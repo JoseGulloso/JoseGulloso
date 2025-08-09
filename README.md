@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-💻 Desarrollador front-end de 23 años, desde Colombia, enfocado en construir interfaces **interactivas, responsivas y centradas en el usuario**.  
+💻 Desarrollador front-end de 24 años, desde Colombia, enfocado en construir interfaces **interactivas, responsivas y centradas en el usuario**.  
 ✨ Me apasiona convertir ideas en experiencias digitales funcionales y visualmente atractivas.  
 🎯 Actualmente en crecimiento constante, contribuyendo a proyectos innovadores y aprendiendo nuevas tecnologías.
 
