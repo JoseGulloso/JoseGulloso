@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Desarrollador front-end de 24 años, desde Colombia, enfocado en construir interfaces interactivas, responsivas y centradas en el usuario.<br>✨ Me apasiona convertir ideas en experiencias digitales funcionales y visualmente atractivas.<br>🎯 Actualmente en crecimiento constante, contribuyendo a proyectos innovadores y aprendiendo nuevas tecnologías.<br><br>📂 Portafolio: josecarlosgullosobuelvas.tech</p>
+<p align="left">💻 Desarrollador front-end de 24 años, desde Colombia, enfocado en construir interfaces interactivas, responsivas y centradas en el usuario.<br>✨ Me apasiona convertir ideas en experiencias digitales funcionales y visualmente atractivas.<br>🎯 Actualmente en crecimiento constante, contribuyendo a proyectos innovadores y aprendiendo nuevas tecnologías.<br><br>📂 Portafolio: <a>josecarlosgullosobuelvas.tech</a></p>
 
 ###
 
