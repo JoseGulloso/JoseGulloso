@@ -87,6 +87,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JoseGulloso/JoseGulloso/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseGulloso/JoseGulloso/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseGulloso/JoseGulloso/output/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/JoseGulloso/JoseGulloso/output/snake.svg">
+</picture>
+
 
 ###
